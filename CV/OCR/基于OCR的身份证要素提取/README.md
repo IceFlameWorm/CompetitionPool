@@ -1,7 +1,7 @@
 # 基于OCR的身份证要素提取
 
 - [比赛首页](https://www.datafountain.cn/competitions/346)
-- [数据集](https://pan.baidu.com/s/1aNihndcR8HOfiQhDzY_B8A): rik0
+- [数据集](https://pan.baidu.com/s/1S3T1uuDL4at5CJbhjye-Ow): jtv7
 
 ## baselines
 
